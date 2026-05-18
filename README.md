@@ -1,4 +1,4 @@
-Computer Architecture Final Project:
+# Computer Architecture Final Project:
 
 Design a 32-Bit CPU to perform assembly level commands
 
