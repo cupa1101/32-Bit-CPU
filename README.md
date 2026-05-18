@@ -1,5 +1,5 @@
 Computer Architecture Final Project:
-Design a 32-Bit CPU to perform assembly level commands
+\n Design a 32-Bit CPU to perform assembly level commands
 Assembly Code in the design:
 lw  $4, 0($0)      # load first value | Binary: 100011 00000 00100 0000000000000000
 lw  $5, 1($0)      # load second value | Binary: 100011 00000 00100 0000000000000001
